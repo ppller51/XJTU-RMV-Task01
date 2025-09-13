@@ -16,13 +16,3 @@
   4. 编写 CMakeLists，完成 C++ 程序输出 `Hello, DXRMV`
   5. 上传 C++ 工程到 GitHub，并在 README 中展示截图
 
-## 4. 使用方法
-在项目目录下执行：
-
-```bash
-mkdir build
-cd build
-cmake ..
-make
-./hello
-# Task01
